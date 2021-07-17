@@ -1,8 +1,10 @@
 :root {
     --navbar-text: white;
+    --navBar: #0a3d69;
     --hover-navBar: #60e6f7;
     --countrySelect: #d4fcf6;
     --countrySelect-border: black;
+    --locationHover: #60778A
 
 }
 
