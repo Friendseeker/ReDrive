@@ -1,9 +1,10 @@
 function showCities()
 {
     let country = document.getElementById("countrySelect").value.toLowerCase();
-    if(country === "choose")
+    if(country != "choose")
     {
-        console.log(false);
+
+        console.log("change country");
     }
     console.log(country);
 }
