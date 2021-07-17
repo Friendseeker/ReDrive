@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+:root {
+    --countrySelect-font: 'Itim', cursive;
+    --countrySelect-size: 25px;
+}

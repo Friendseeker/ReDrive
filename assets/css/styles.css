@@ -1,4 +1,7 @@
+
 @import url(./colors.css);
+@import url(./fonts.css);
+
 
 .navbar-dark {
     background-color: #0a3d69;
@@ -19,4 +22,42 @@
 
 .nav-item {
     color: var(--navbar-text);
+}
+
+#countrySelectLabel {
+    border-right: none;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-width: 1px;
+    border-color: var(--countrySelect-border);
+
+    background-color: var(--countrySelect);
+
+    font-family: var(--countrySelect-font);
+    font-size: var(--countrySelect-size);
+}
+
+#countrySelect{
+    width: fit-content;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-left: none;
+    border-width: 1px;
+    border-color: var(--countrySelect-border);
+
+    background-color: var(--countrySelect);
+    
+    font-family: var(--countrySelect-font);
+    font-size: var(--countrySelect-size);
+}
+
+.locations {
+    display: flex;
+    justify-content: center;
+}
+
+.location {
+    background-color: #f9d4fc;
+    border-color: black;
+    padding: auto;
 }
