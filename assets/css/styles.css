@@ -40,7 +40,7 @@
 
     background-color: var(--countrySelect);
 
-    font-family: var(--countrySelect-font);
+    /*font-family: var(--countrySelect-font);*/
     font-size: var(--countrySelect-size);
 }
 
@@ -54,7 +54,7 @@
 
     background-color: var(--countrySelect);
     
-    font-family: var(--countrySelect-font);
+    /*font-family: var(--countrySelect-font);*/
     font-size: var(--countrySelect-size);
 }
 
