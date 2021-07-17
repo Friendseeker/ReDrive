@@ -75,3 +75,8 @@
     background-color: var(--locationHover);
     transform: scale(1.05); 
 }
+
+.page-footer {
+    background-color: var(--navBar);
+    
+}
