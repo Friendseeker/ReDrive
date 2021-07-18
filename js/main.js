@@ -7,12 +7,9 @@ function showCities()
         let locationArr = document.getElementsByClassName("location");
         for(let l = 0; l < locationArr.length; l++)
         {
-            console.log("in loop");
             locationArr[l].style.display = "block";
         }
-        //console.log(document.getElementsByClassName("location"));
-
-        console.log("changed country");
+        
     }
     else if(country === "choose..."){
         document.getElementById("countryPrompt").style.display = "block";
