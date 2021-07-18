@@ -81,61 +81,61 @@ France:
     
     Nice,
         img: https://images.unsplash.com/photo-1491166617655-0723a0999cfc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-        description: 
-        source:
-        url: 
+        description: Nice is a place to enjoy life, to take in the beauty of the gardens and the sea, and to soak up the vibrant Mediterranean energy. From wandering the quaint cobblestone streets to strolling the famous Promenade des Anglais, the joys of spending time in this beautiful city are endless.
+        source: Planet Ware
+        url: https://www.planetware.com/tourist-attractions-/nice-f-az-ni.htm
     
     Bordeaux, 
         img: https://images.unsplash.com/photo-1493564738392-d148cfbd6eda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-        description: 
-        source:
-        url: 
+        description: Bordeaux is called the "Port of the Moon" because of its romantic location on a crescent-shaped bend of the Garonne River. In this splendid setting that allowed trade to flourish, the city has a rich cultural heritage dating back to antiquity.
+        source: Planet Ware
+        url: https://www.planetware.com/tourist-attractions-/bordeaux-f-aq-bor.htm
     
     Lyon, 
         img: https://images.unsplash.com/photo-1537015125382-74e1f1c99ac4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-        description: 
-        source:
-        url: 
+        description: Lyon is France's second city, one of France's oldest cities, and is reputed as the gourmet capital of France. It's large historic centre, Le Vieux Lyon, is a UNESCO World Heritage site, and is the largest ensemble of Renaissance buildings in Europe.
+        source: About France
+        url: https://about-france.com/cities/lyon.htm
     
     Cannes, 
         img: https://images.unsplash.com/photo-1557505956-eb3d48eb0223?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80
-        description:
-        source:
-        url: 
+        description: In an enchanting setting on Golfe de la Napoule bay, Cannes is blessed with a balmy Mediterranean climate. The weather is mild year-round and perfect for sunbathing by the beach from May through October. Leafy palm trees grace the streets of Cannes, and subtropical flowers flourish throughout the city, giving visitors the impression of being in paradise.
+        source: Planet Ware
+        url: https://www.planetware.com/tourist-attractions-/cannes-f-az-can.htm
     
     Corsica
         img: https://images.unsplash.com/photo-1613081969360-fc9330db1a6a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-        description:
-        source:
-        url: 
+        description: Corsica is an island of superlatives,a mountain jewel set in the middle of the Mediterranean. Our many museums are home to remarkable exhibits which bear witness to the passing of time and the island's history. Corsica is an island of superlatives,a mountain jewel set in the middle of the Mediterranean.
+        source: Visit Corsica
+        url: https://www.visit-corsica.com/en
 
 china: 
     Beijing,
         img:  https://images.unsplash.com/photo-1537410056906-d336ddf64024?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80
-        description: 
-        source:
-        url: 
+        description: Beijing is the nation's political, economic, and cultural center. Located in north China, close to the port city of Tianjin and partially surrounded by Hebei Province, it also serves as the most important transportation hub and port of entry.
+        source: Travel China Guide
+        url: https://www.travelchinaguide.com/cityguides/beijing.htm
     
     Shanghai, 
         img: https://images.unsplash.com/photo-1474181487882-5abf3f0ba6c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80
-        description:
-        source:
-        url: 
+        description: Shanghai, Hu for short, is a renowned international metropolis drawing more and more attention from all over the world. Situated on the estuary of Yangtze River, it serves as the most influential economic, financial, international trade, and cultural center in East China. Here, one finds the perfect blend of cultures, the modern and the traditional , and the western and the oriental.
+        source: Travel Guide China
+        url: https://www.travelchinaguide.com/cityguides/shanghai.htm
     
     Chengdu,
         img: https://images.unsplash.com/photo-1575386867460-c9f9ce28faf0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-        description: 
-        source:
-        url: 
+        description: Chengdu is now one of the most popular travel destinations in China mostly owning to its everlasting history, well-preserved tradition, unique local folks and arts, pleasant weather, developed tourism industry. Among all these features, Giant Panda is the most attractive treasure for all visitors to Chengdu, and world-famous Sichuan Cuisine and Chengdu’s local leisure lifestyle also appeal to worldwide curiosity.
+        source: China Discovery
+        url: https://www.chinadiscovery.com/sichuan/chengdu/tourism.html
     
     Xi'an, 
         img: https://images.unsplash.com/photo-1533526698877-4dfa66b09d6d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80
-        description:
-        source:
-        url: 
+        description: Xi'an, located in central-northwest China, records the great changes of the country just like a living history book. Called Chang'an (meaning the eternal city) in ancient times, it is one of the birthplaces of the ancient Chinese civilization in the Yellow River Basin area.
+        source: Travel China Guide
+        url: https://www.travelchinaguide.com/cityguides/xian.htm
     
     Hangzhou
         img: https://images.unsplash.com/photo-1567975789927-dfaf473ca06e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80
-        description: 
-        source:
-        url: 
+        description: Considered more tranquil than many of China's other big cities, the downtown core is built up around the beautiful West Lake with its many old shrines and temples, romantic bridges, and pagodas, all of them popular to see at night when they're lit up. Hangzhou was famously described by Marco Polo as the most beautiful city in the world. Hangzhou is also known as the Silk City for its long tradition of manufacturing the material, a tradition that lives on in its many silk mills and markets.
+        source: Planet Ware
+        url: https://www.planetware.com/tourist-attractions-/hangzhou-chn-zj-h.htm
