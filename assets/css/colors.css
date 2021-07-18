@@ -4,7 +4,12 @@
     --hover-navBar: #60e6f7;
     --countrySelect: #d4fcf6;
     --countrySelect-border: black;
-    --locationHover: #60778A
+    --locationHover: #60778A;
+
+    --signInGradient1: #18d4ed;
+    --signInGradient2: #085aa1;
+    --signUp-background: #e6fcff;
+
 
 }
 

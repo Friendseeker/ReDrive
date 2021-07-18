@@ -1,0 +1,124 @@
+@import url(./colors.css);
+@import url(./fonts.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: var(--signUp-background);
+}
+
+.container {
+    position: absolute;
+    max-width: 800px;
+    height: 500px;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.myRightCtn {
+    position: relative;
+    background-image: linear-gradient(45deg, var(--signInGradient1), var(--signInGradient2));
+    border-radius: 25px;
+    height: 100%;
+    padding: 25px;
+    color: var(--navbar-text);
+    font-size: 12px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.myRightCtn header {
+    color: white;
+    font-size: 39px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.myLeftCtn {
+    position: relative;
+    background: white;
+    border-radius: 25px;
+    height: 100%;
+    padding: 25px;
+    padding-left: 50px;
+}
+
+.myLeftCtn header {
+    color: var(--signInGradient1);
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.myLeftCtn .myInput {
+    width: 230px;
+    border-radius: 25px;
+    padding: 10px;
+    padding-left: 50px;
+    border: none;
+
+    box-shadow: 0px 10px 49px -14px rgba(0, 0, 0, 0.7);
+}
+
+.myLeftCtn .myInput:focus {
+    outline: none;
+}
+
+.myLeftCtn .butt {
+    background: linear-gradient(45deg, var(--signInGradient1), var(--signInGradient2));
+    color: var(--navbar-text);
+    font-weight: 400;
+    width: 230px;
+    border: none;
+    border-radius: 25px;
+    padding: 10px;
+
+    box-shadow: 0px 10px 41px -11px rgba(0, 0, 0, 0.7);
+}
+
+.myLeftCtn .butt:hover {
+    background: linear-gradient(45deg, #45e6fc, #4677b3);
+}
+
+.myLeftCtn .butt:focus {
+    outline: none;
+}
+
+.myLeftCtn .fas {
+    position: relative;
+    color: var(--signInGradient1);
+    left: 36px;
+}
+
+.myForm {
+    position: relative;
+    margin-top: 50px;
+}
+
+.row{
+    height: 100%;
+}
+
+.myCard {
+    position: relative;
+    background: #fff;
+    height: 100%;
+    border-radius: 25px;
+    -webkit-box-shadow: 0px 10px 40px -10px rgba(0, 0, 0, 0.7);
+    -moz-box-shadow: 0px, 10px, 40px, -10px rgba(0, 0, 0, 0.7);
+    box-shadow: 0px, 10px, 40px, -10px rgba(0, 0, 0, 0.7);
+}
+
+.box {
+    position: relative;
+    margin: 20px;
+    margin-bottom: 100px;
+}

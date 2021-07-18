@@ -21,3 +21,24 @@ function showCities()
     }
     console.log(country);
 }
+
+function openAccount() {
+    let headersList = {
+
+    }
+
+    let formdata = new FormData();
+    formdata.append("username", document.getElementById("username").value);
+    formdata.append("password", document.getElementById("password").value);
+
+    fetch("https://recation.herokuapp.com/signup", {
+        method: "POST",
+        body: formdata,
+        headers: headersList
+    }).then(r => null) // hope it is the right way to let it do noting
+
+    
+    document.getElementById("signupForm").style.display = "none";
+    document.getElementById("logedIn").style.display = "block";
+
+}
