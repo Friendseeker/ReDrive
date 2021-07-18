@@ -1,40 +1,58 @@
 italy: 
     Rome, 
         img: https://images.unsplash.com/photo-1512767811219-ed2f11ce5d0d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-        description: 
+        description: Rome was called the “Eternal City” by the ancient Romans because they believed that no matter what happened in the rest of the world, the city of Rome would always remain standing. Exploring the city centre by foot surrounded by glorious monuments and colossal remains takes you back in time to the “glory that was Rome”.
+        source: Civitatis Rome
+        url: https://www.rome.net/
 
     Venice,
         img: https://images.unsplash.com/photo-1558271736-cd043ef2e855?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80
-        description:
+        description: Venice is unique environmentally, architecturally, and historically, and in its days as a republic the city was styled la serenissima (“the most serene” or “sublime”). It remains a major Italian port in the northern Adriatic Sea and is one of the world's oldest tourist and cultural centres
+        source: Britannica
+        url: https://www.britannica.com/place/Venice
     
     Florence,
         img: https://images.unsplash.com/photo-1543429257-3eb0b65d9c58?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-        description:
+        description: Florence (Firenze in Italian) is a small cultural metropolis that offers visitors some of the world's top museums and art galleries. The city is a real open-air museum and is the birthplace of the Renaissance.
+        source: Civitatis Florence
+        url: https://www.introducingflorence.com/
     
     Milan,
         img:https://images.unsplash.com/photo-1516296270211-f3ae5494e65d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80
-        description: 
+        description: Milan offers all the advantages of a large city, but it is relatively small, thus making it perfect to visit, as tourists can get to most of the city’s attractions and museums by foot. Additionaly, Milan is internationally recognised as one of the world’s most important fashion capitals, but it also has a wealth of interesting museums and things to see and do.
+        source: Civitatis Milan
+        url: https://www.introducingmilan.com/
     
     Naples,
         img: https://images.unsplash.com/photo-1520505575945-e6afb4d026dc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=789&q=80
-        description: 
+        description: Naples, Napoli in Italian, is the third-largest city in Italy, located in the Campania region in the southern part of the country.  Its close proximity to many interesting sites, such as Pompeii and the Bay of Naples, makes it a good base for exploring the area. Naples is a vibrant and chaotic city, full of wonderful historical and artistic treasures and narrow, winding streets with small shops.
+        source: Trip Savvy
+        url: https://www.tripsavvy.com/naples-travel-guide-1547686
     
     Amalfi
         img:https://images.unsplash.com/photo-1612698093158-e07ac200d44e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-        description: 
+        description: The Amalfi coast is one of the most renowned tourist destinations in the whole of Italy and draws thousands of tourists annually. This stretch of mountainous coast sits in-between Naples and Salerno and encompasses the arm of the Sorrento Peninsula. The coastline includes some absolutely gorgeous towns that hug the mountains, some sublime beaches and jaw-dropping scenery.
+        source: The Crazy Tourist
+        url: https://www.thecrazytourist.com/15-best-things-amalfi-coast-italy/
 
 Japan: 
     Tokyo,
         img: https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=462&q=80
-        description:
+        description: Tokyo offers a seemingly unlimited choice of shopping, entertainment, culture and dining to its visitors. The city's history can be appreciated in districts such as Asakusa and in many excellent museums, historic temples and gardens. In addition to the city, Tokyo also offers a number of attractive green spaces in the city center and within relatively short train rides at its outskirts.
+        source: Japan Guide
+        url: https://www.japan-guide.com/e/e2164.html
     
     Kyoto,
         img: https://images.unsplash.com/photo-1503640538573-148065ba4904?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-        description:
+        description: The streets of Kyoto, which are deeply influenced by traditional Japanese culture. The seas, in which Japan's oldest legends are still alive, and the mountains that are the origins of the Japanese people. Beyond the city, Kyoto Prefecture stretches north through the forest to the sea.
+        source: Kyoto Tourism
+        url: https://www.kyototourism.org/en/
     
     Osaka,
         img: https://images.unsplash.com/photo-1589452271712-64b8a66c7b71?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80
-        description:
+        description: Hop off the bullet train into an area of exciting nightlife, delicious food and straight-talking, friendly locals. Along with plenty of shopping and modern attractions, Osaka also has a historical side, the highlight of which is Osaka Castle. The castle is a great place to discover more about Japanese history and to wander the beautiful grounds, especially during cherry blossom season in April when the sakura blooms and the weather is often at its best.
+        source: Japan Travel
+        url: https://www.japan.travel/en/destinations/kansai/osaka/
     
     Hiroshima, 
         img: https://images.unsplash.com/photo-1504109586057-7a2ae83d1338?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=890&q=80
