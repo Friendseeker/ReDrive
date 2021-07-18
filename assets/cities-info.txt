@@ -1,0 +1,141 @@
+italy: 
+    Rome, 
+        img: https://images.unsplash.com/photo-1512767811219-ed2f11ce5d0d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+        description: Rome was called the “Eternal City” by the ancient Romans because they believed that no matter what happened in the rest of the world, the city of Rome would always remain standing. Exploring the city centre by foot surrounded by glorious monuments and colossal remains takes you back in time to the “glory that was Rome”.
+        source: Civitatis Rome
+        url: https://www.rome.net/
+
+    Venice,
+        img: https://images.unsplash.com/photo-1558271736-cd043ef2e855?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80
+        description: Venice is unique environmentally, architecturally, and historically, and in its days as a republic the city was styled la serenissima (“the most serene” or “sublime”). It remains a major Italian port in the northern Adriatic Sea and is one of the world's oldest tourist and cultural centres
+        source: Britannica
+        url: https://www.britannica.com/place/Venice
+    
+    Florence,
+        img: https://images.unsplash.com/photo-1543429257-3eb0b65d9c58?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+        description: Florence (Firenze in Italian) is a small cultural metropolis that offers visitors some of the world's top museums and art galleries. The city is a real open-air museum and is the birthplace of the Renaissance.
+        source: Civitatis Florence
+        url: https://www.introducingflorence.com/
+    
+    Milan,
+        img:https://images.unsplash.com/photo-1516296270211-f3ae5494e65d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80
+        description: Milan offers all the advantages of a large city, but it is relatively small, thus making it perfect to visit, as tourists can get to most of the city’s attractions and museums by foot. Additionaly, Milan is internationally recognised as one of the world’s most important fashion capitals, but it also has a wealth of interesting museums and things to see and do.
+        source: Civitatis Milan
+        url: https://www.introducingmilan.com/
+    
+    Naples,
+        img: https://images.unsplash.com/photo-1520505575945-e6afb4d026dc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=789&q=80
+        description: Naples, Napoli in Italian, is the third-largest city in Italy, located in the Campania region in the southern part of the country.  Its close proximity to many interesting sites, such as Pompeii and the Bay of Naples, makes it a good base for exploring the area. Naples is a vibrant and chaotic city, full of wonderful historical and artistic treasures and narrow, winding streets with small shops.
+        source: Trip Savvy
+        url: https://www.tripsavvy.com/naples-travel-guide-1547686
+    
+    Amalfi
+        img:https://images.unsplash.com/photo-1612698093158-e07ac200d44e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+        description: The Amalfi coast is one of the most renowned tourist destinations in the whole of Italy and draws thousands of tourists annually. This stretch of mountainous coast sits in-between Naples and Salerno and encompasses the arm of the Sorrento Peninsula. The coastline includes some absolutely gorgeous towns that hug the mountains, some sublime beaches and jaw-dropping scenery.
+        source: The Crazy Tourist
+        url: https://www.thecrazytourist.com/15-best-things-amalfi-coast-italy/
+
+Japan: 
+    Tokyo,
+        img: https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=462&q=80
+        description: Tokyo offers a seemingly unlimited choice of shopping, entertainment, culture and dining to its visitors. The city's history can be appreciated in districts such as Asakusa and in many excellent museums, historic temples and gardens. In addition to the city, Tokyo also offers a number of attractive green spaces in the city center and within relatively short train rides at its outskirts.
+        source: Japan Guide
+        url: https://www.japan-guide.com/e/e2164.html
+    
+    Kyoto,
+        img: https://images.unsplash.com/photo-1503640538573-148065ba4904?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+        description: The streets of Kyoto, which are deeply influenced by traditional Japanese culture. The seas, in which Japan's oldest legends are still alive, and the mountains that are the origins of the Japanese people. Beyond the city, Kyoto Prefecture stretches north through the forest to the sea.
+        source: Kyoto Tourism
+        url: https://www.kyototourism.org/en/
+    
+    Osaka,
+        img: https://images.unsplash.com/photo-1589452271712-64b8a66c7b71?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80
+        description: Hop off the bullet train into an area of exciting nightlife, delicious food and straight-talking, friendly locals. Along with plenty of shopping and modern attractions, Osaka also has a historical side, the highlight of which is Osaka Castle. The castle is a great place to discover more about Japanese history and to wander the beautiful grounds, especially during cherry blossom season in April when the sakura blooms and the weather is often at its best.
+        source: Japan Travel
+        url: https://www.japan.travel/en/destinations/kansai/osaka/
+    
+    Hiroshima, 
+        img: https://images.unsplash.com/photo-1504109586057-7a2ae83d1338?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=890&q=80
+        description: Hiroshima Prefecture is located in the southwestern part of the Japanese islands. It is rich in the natural beauty of the Inland Sea and the Chugoku Mountains, with mountains, sea, rivers, valleys, plains, basins that characterize Japan's landscape.
+        source: Visit Hiroshima
+        url: https://visithiroshima.net/
+    
+    Sapporo, 
+        img: https://images.unsplash.com/photo-1572420780547-8fbb45c82f0a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80
+        description: Sapporo (札幌, "important river flowing through a plain" in Ainu language) is the capital of Hokkaido and Japan's fifth largest city. Sapporo is also one of the nation's youngest major cities. Sapporo became world famous in 1972 when the Olympic Winter Games were held there. Today, the city is well known for its ramen, beer, and the annual snow festival held in February.
+        source: Japan Guide
+        url: https://www.japan-guide.com/e/e2163.html
+    
+    Fukuoka
+        img: https://images.unsplash.com/photo-1605088298038-2876387a80c1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80
+        description: Fukuoka is the administrative, economic, and cultural center of the southernmost island of Kyushu and is one of the country's most progressive cities. Located in Hakata Bay, Fukuoka is divided in two by the River Naka, with Hakata, the older eastern part of the city, serving as an important port and commercial center. Fukuoka is also a tourism hot spot that's home to numerous fine museums, art galleries, and theaters, as well as great places to eat. The city also hosts many professional sporting events and festivals.
+        source: Planet Ware
+        url: https://www.planetware.com/japan/fukuoka-jpn-ky-fuku.htm
+
+France: 
+    Paris,
+        img: https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=752&q=80
+        description: Paris, capital of France, is one of the most important and influential cities in the world. Some of the most memorable things to do in Paris include visiting the Eiffel Tower, the Arc de Triomphe and Notre-Dame Cathedral. During the evening, experiencing one of the legendary Moulin Rouge cabaret shows, strolling through some of the most picturesque neighborhoods, like Montmartre, or climbing the Montparnasse Tower are a must.
+        source: Civitatis Paris
+        url: https://www.introducingparis.com/
+    
+    Nice,
+        img: https://images.unsplash.com/photo-1491166617655-0723a0999cfc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+        description: Nice is a place to enjoy life, to take in the beauty of the gardens and the sea, and to soak up the vibrant Mediterranean energy. From wandering the quaint cobblestone streets to strolling the famous Promenade des Anglais, the joys of spending time in this beautiful city are endless.
+        source: Planet Ware
+        url: https://www.planetware.com/tourist-attractions-/nice-f-az-ni.htm
+    
+    Bordeaux, 
+        img: https://images.unsplash.com/photo-1493564738392-d148cfbd6eda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+        description: Bordeaux is called the "Port of the Moon" because of its romantic location on a crescent-shaped bend of the Garonne River. In this splendid setting that allowed trade to flourish, the city has a rich cultural heritage dating back to antiquity.
+        source: Planet Ware
+        url: https://www.planetware.com/tourist-attractions-/bordeaux-f-aq-bor.htm
+    
+    Lyon, 
+        img: https://images.unsplash.com/photo-1537015125382-74e1f1c99ac4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+        description: Lyon is France's second city, one of France's oldest cities, and is reputed as the gourmet capital of France. It's large historic centre, Le Vieux Lyon, is a UNESCO World Heritage site, and is the largest ensemble of Renaissance buildings in Europe.
+        source: About France
+        url: https://about-france.com/cities/lyon.htm
+    
+    Cannes, 
+        img: https://images.unsplash.com/photo-1557505956-eb3d48eb0223?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80
+        description: In an enchanting setting on Golfe de la Napoule bay, Cannes is blessed with a balmy Mediterranean climate. The weather is mild year-round and perfect for sunbathing by the beach from May through October. Leafy palm trees grace the streets of Cannes, and subtropical flowers flourish throughout the city, giving visitors the impression of being in paradise.
+        source: Planet Ware
+        url: https://www.planetware.com/tourist-attractions-/cannes-f-az-can.htm
+    
+    Corsica
+        img: https://images.unsplash.com/photo-1613081969360-fc9330db1a6a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+        description: Corsica is an island of superlatives,a mountain jewel set in the middle of the Mediterranean. Our many museums are home to remarkable exhibits which bear witness to the passing of time and the island's history. Corsica is an island of superlatives,a mountain jewel set in the middle of the Mediterranean.
+        source: Visit Corsica
+        url: https://www.visit-corsica.com/en
+
+china: 
+    Beijing,
+        img:  https://images.unsplash.com/photo-1537410056906-d336ddf64024?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80
+        description: Beijing is the nation's political, economic, and cultural center. Located in north China, close to the port city of Tianjin and partially surrounded by Hebei Province, it also serves as the most important transportation hub and port of entry.
+        source: Travel China Guide
+        url: https://www.travelchinaguide.com/cityguides/beijing.htm
+    
+    Shanghai, 
+        img: https://images.unsplash.com/photo-1474181487882-5abf3f0ba6c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80
+        description: Shanghai, Hu for short, is a renowned international metropolis drawing more and more attention from all over the world. Situated on the estuary of Yangtze River, it serves as the most influential economic, financial, international trade, and cultural center in East China. Here, one finds the perfect blend of cultures, the modern and the traditional , and the western and the oriental.
+        source: Travel Guide China
+        url: https://www.travelchinaguide.com/cityguides/shanghai.htm
+    
+    Chengdu,
+        img: https://images.unsplash.com/photo-1575386867460-c9f9ce28faf0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+        description: Chengdu is now one of the most popular travel destinations in China mostly owning to its everlasting history, well-preserved tradition, unique local folks and arts, pleasant weather, developed tourism industry. Among all these features, Giant Panda is the most attractive treasure for all visitors to Chengdu, and world-famous Sichuan Cuisine and Chengdu’s local leisure lifestyle also appeal to worldwide curiosity.
+        source: China Discovery
+        url: https://www.chinadiscovery.com/sichuan/chengdu/tourism.html
+    
+    Xi'an, 
+        img: https://images.unsplash.com/photo-1533526698877-4dfa66b09d6d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80
+        description: Xi'an, located in central-northwest China, records the great changes of the country just like a living history book. Called Chang'an (meaning the eternal city) in ancient times, it is one of the birthplaces of the ancient Chinese civilization in the Yellow River Basin area.
+        source: Travel China Guide
+        url: https://www.travelchinaguide.com/cityguides/xian.htm
+    
+    Hangzhou
+        img: https://images.unsplash.com/photo-1567975789927-dfaf473ca06e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80
+        description: Considered more tranquil than many of China's other big cities, the downtown core is built up around the beautiful West Lake with its many old shrines and temples, romantic bridges, and pagodas, all of them popular to see at night when they're lit up. Hangzhou was famously described by Marco Polo as the most beautiful city in the world. Hangzhou is also known as the Silk City for its long tradition of manufacturing the material, a tradition that lives on in its many silk mills and markets.
+        source: Planet Ware
+        url: https://www.planetware.com/tourist-attractions-/hangzhou-chn-zj-h.htm

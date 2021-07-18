@@ -2,6 +2,9 @@
 @import url(./colors.css);
 @import url(./fonts.css);
 
+body {
+    color: black;
+}
 
 .navbar-dark {
     background-color: var(--navBar);
@@ -45,7 +48,6 @@
 }
 
 #countrySelect{
-    width: fit-content;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
     border-left: none;
@@ -63,10 +65,23 @@
     justify-content: center;
 }
 
+#countryPrompt {
+    font-weight: 700;
+    text-align: center;
+
+    border: 20px;
+    border-style: dashed;
+    border-color: black;
+
+    padding: 50px;
+    margin: 100px;
+}
 .location {
     /*background-color: #f9d4fc;*/
     border-radius: 8px;
     padding-top: 10px;
+
+    display: none;
 
     transition: all .3s ease-in-out;
 }
