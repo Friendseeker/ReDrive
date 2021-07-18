@@ -21,3 +21,8 @@ function showCities()
     }
     console.log(country);
 }
+
+function openAccount() {
+    console.log('here');
+    window.location.href = "../Pages/account.html";
+}
