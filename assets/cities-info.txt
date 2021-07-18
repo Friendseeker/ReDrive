@@ -56,58 +56,86 @@ Japan:
     
     Hiroshima, 
         img: https://images.unsplash.com/photo-1504109586057-7a2ae83d1338?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=890&q=80
-        description: 
+        description: Hiroshima Prefecture is located in the southwestern part of the Japanese islands. It is rich in the natural beauty of the Inland Sea and the Chugoku Mountains, with mountains, sea, rivers, valleys, plains, basins that characterize Japan's landscape.
+        source: Visit Hiroshima
+        url: https://visithiroshima.net/
     
     Sapporo, 
         img: https://images.unsplash.com/photo-1572420780547-8fbb45c82f0a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80
-        description: 
+        description: Sapporo (札幌, "important river flowing through a plain" in Ainu language) is the capital of Hokkaido and Japan's fifth largest city. Sapporo is also one of the nation's youngest major cities. Sapporo became world famous in 1972 when the Olympic Winter Games were held there. Today, the city is well known for its ramen, beer, and the annual snow festival held in February.
+        source: Japan Guide
+        url: https://www.japan-guide.com/e/e2163.html
     
     Fukuoka
         img: https://images.unsplash.com/photo-1605088298038-2876387a80c1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80
-        description:
+        description: Fukuoka is the administrative, economic, and cultural center of the southernmost island of Kyushu and is one of the country's most progressive cities. Located in Hakata Bay, Fukuoka is divided in two by the River Naka, with Hakata, the older eastern part of the city, serving as an important port and commercial center. Fukuoka is also a tourism hot spot that's home to numerous fine museums, art galleries, and theaters, as well as great places to eat. The city also hosts many professional sporting events and festivals.
+        source: Planet Ware
+        url: https://www.planetware.com/japan/fukuoka-jpn-ky-fuku.htm
 
 France: 
     Paris,
         img: https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=752&q=80
-        description: 
+        description: Paris, capital of France, is one of the most important and influential cities in the world. Some of the most memorable things to do in Paris include visiting the Eiffel Tower, the Arc de Triomphe and Notre-Dame Cathedral. During the evening, experiencing one of the legendary Moulin Rouge cabaret shows, strolling through some of the most picturesque neighborhoods, like Montmartre, or climbing the Montparnasse Tower are a must.
+        source: Civitatis Paris
+        url: https://www.introducingparis.com/
     
     Nice,
         img: https://images.unsplash.com/photo-1491166617655-0723a0999cfc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
         description: 
+        source:
+        url: 
     
     Bordeaux, 
         img: https://images.unsplash.com/photo-1493564738392-d148cfbd6eda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
         description: 
+        source:
+        url: 
     
     Lyon, 
         img: https://images.unsplash.com/photo-1537015125382-74e1f1c99ac4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
         description: 
+        source:
+        url: 
     
     Cannes, 
         img: https://images.unsplash.com/photo-1557505956-eb3d48eb0223?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80
         description:
+        source:
+        url: 
     
     Corsica
         img: https://images.unsplash.com/photo-1613081969360-fc9330db1a6a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
         description:
+        source:
+        url: 
 
 china: 
     Beijing,
         img:  https://images.unsplash.com/photo-1537410056906-d336ddf64024?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80
         description: 
+        source:
+        url: 
     
     Shanghai, 
         img: https://images.unsplash.com/photo-1474181487882-5abf3f0ba6c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80
         description:
+        source:
+        url: 
     
     Chengdu,
         img: https://images.unsplash.com/photo-1575386867460-c9f9ce28faf0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
         description: 
+        source:
+        url: 
     
     Xi'an, 
         img: https://images.unsplash.com/photo-1533526698877-4dfa66b09d6d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80
         description:
+        source:
+        url: 
     
     Hangzhou
         img: https://images.unsplash.com/photo-1567975789927-dfaf473ca06e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80
         description: 
+        source:
+        url: 
