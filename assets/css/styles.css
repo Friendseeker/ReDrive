@@ -27,6 +27,10 @@ body {
     color: var(--navbar-text);
 }
 
+.navbar-right ul a {
+    text-align: right;
+}
+
 .carouselImg {
     width: 100%;
     height: 10%;
@@ -94,4 +98,8 @@ body {
 .page-footer {
     background-color: var(--navBar);
     color: var(--navbar-text);
+}
+
+button {
+    cursor: pointer;
 }

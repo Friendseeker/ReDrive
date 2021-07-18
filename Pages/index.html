@@ -20,7 +20,7 @@
 
 
 <body>
-
+    <!--nav bar-->
     <nav class="navbar navbar-expand-lg navbar-dark ">
         <div class="container-fluid me-0">
             <a class="navbar-brand" href="/Pages/index.html">Recation</a>
@@ -44,7 +44,7 @@
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Account </a>
                         <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="/Pages/signUp.html">Sign Up</a></li>
-                            <li><a class="dropdown-item" href="#">Log In</a></li>
+                            <li><a class="dropdown-item" href="" data-toggle="modal" data-target="#loginMPage">Log In</a></li>
                             <li><hr class="dropdown-divider"></li>
                             <li><a class="dropdown-item" href="#">FAQ</a></li> <!--Not sure if we need this-->
                         </ul>
@@ -57,7 +57,19 @@
     </nav>
 
     <br/>
+    <!--Login page-->
+    <div class="modal fade" id="loginMPage">
+        <div class="modal-dialog">
+            <div class="modal-content">
 
+                <div class="modal-header text-center">
+                    <h4 class="modal-title text-center w-100 font-weight-bold">Sign Up</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="close">&time;</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
     
     <div class="container">
         <br>
