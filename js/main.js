@@ -23,6 +23,8 @@ function showCities()
 }
 
 function openAccount() {
-    console.log('here');
-    window.location.href = "../Pages/account.html";
+    console.log("test")
+    document.getElementById("signupForm").style.display = "none";
+    document.getElementById("logedIn").style.display = "block";
+
 }

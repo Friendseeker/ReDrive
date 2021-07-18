@@ -16,6 +16,8 @@
 
     <link href="../assets/css/styles.css" rel="stylesheet" type="text/css">
     <link href="../assets/css/signUp.css" rel="stylesheet" type="text/css">
+    <script src="../js/main.js"></script>
+
 
 
 </head>
@@ -55,7 +57,7 @@
     <br/>
 
     <!--actual sign up page-->
-    <div class="container">
+    <div class="container" id="signupForm">
         <div class="myCard">
             <div class="row">
                 <div class="col-md-6">
@@ -90,7 +92,8 @@
                                 <div class="invalid-feedback">Please fill out this field</div>
                             </div>
 
-                            <input type="submit" class="butt" value="CREATE ACCOUNT">
+                            <button type="button" class="btn butt" onclick="openAccount()">CREATE ACCOUNT</button>
+                            <!--<input type="submit" class="butt" onclick="openAccount()" value="CREATE ACCOUNT">-->
 
                         </form>
                     </div>
@@ -107,7 +110,7 @@
         </div>
     </div>
 
-    <div class="container logedIn">
+    <div class="container" id="logedIn">
         <h1>Congrats you are loged in!</h1>
         <br/>
     </div>

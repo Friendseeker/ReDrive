@@ -103,3 +103,7 @@ body {
 button {
     cursor: pointer;
 }
+
+#logedIn {
+    display: none;
+}
